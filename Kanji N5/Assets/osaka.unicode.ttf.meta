@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b236e77bf02b965419c9facb99582171
+timeCreated: 1483665759
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: osaka_unicode
+  fontNames:
+  - osaka_unicode
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

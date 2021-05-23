@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fdf0ee4d7b6050f4bb5db85518f2e636
+timeCreated: 1483665760
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sazanami Mincho
+  fontNames:
+  - Sazanami Mincho
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
