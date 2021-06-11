@@ -8,6 +8,6 @@ and was not thoroughly tested nor it was adjusted for other users.
 
 The mobile phone model it was made for is Samsung Galaxy S3 with 4,8 inches display.
 
-I will not continue and update this project.
+I will not continue and will not update this project.
 
 >December 2016
