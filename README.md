@@ -1,5 +1,5 @@
 # Japanese Kanji Database
-The application in this repository shows the list of Japanese characters needed to pass the N5 level of Japanese Language Proficency Test (JLTP).
+The application in this repository shows a list of Japanese characters needed to pass the N5 level of Japanese Language Proficency Test (JLTP).
 
 
 It was created with unity being my first app made with this engine. The code is very sloppy and coarse, not very intuitive. The app was made for my private use
